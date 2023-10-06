@@ -16,7 +16,7 @@ alt="snake" /></a>
 ![MY github stats](https://github-readme-stats.vercel.app/api?username=srijan-lamichhane&show_icons=true&theme=tokyonight)<br>
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-lamichhane&theme=tokyonight&layout=compact)
 
-🌱 I’m currently Learning JavaScript and it's Framework.
+🌱 I'm currently learning JavaScript and its frameworks.
 
 <!--profile visit count-->
 <div align="center">
