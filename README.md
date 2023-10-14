@@ -17,6 +17,7 @@ alt="snake" /></a>
 🔭 I’m currently working on Open Source<br>👯 I’m looking to collaborate on Frontend developent<br>🌱 I’m currently learning JavaScript and its frameworks<br>💬 Ask me about anything<br>⚡ Fun fact i love talking about tech
 
 ![MY github stats](https://github-readme-stats.vercel.app/api?username=srijan-lamichhane&show_icons=true&theme=tokyonight)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dashing-dev&theme=tokyonight&hide_border=false)<br/>
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-lamichhane&theme=tokyonight&layout=compact)
 
 
