@@ -8,11 +8,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<div align="center">
-<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-alt="snake" /></a>
-</div>
-
 # 💫 About Me:
 🔭 I’m currently working on Open Source<br>👯 I’m looking to collaborate on Frontend developent<br>🌱 I’m currently learning JavaScript and its frameworks<br>💬 Ask me about anything<br>⚡ Fun fact i love talking about tech
 
